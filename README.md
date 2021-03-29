@@ -5,17 +5,15 @@ Lien du repository du projet : https://github.com/L3-Info-Miage-Universite-Cote-
 
 Ce répertoire contient une copie de mon projet de licence dont le sujet était le suivant : 
 
-![Sujet](sujet.png)
-![Evo1](Evolution1.png)
-![Evo2](Evolution2.png)
+![Sujet](https://github.com/Ossama98/Projet-de-licence-Android/blob/master/sujet.png)
+![Evo1](https://github.com/Ossama98/Projet-de-licence-Android/blob/master/Evolution1.png)
+![Evo2](https://github.com/Ossama98/Projet-de-licence-Android/blob/master/Evolution2.png)
 
 Le serveur se trouve dans java/serveur et le client dans AndroidApp , la partie commun se trouve dans java/commun  
 
 Vous pouvez voir la participation et commit du projet dans l'onglet "contributors". 
 
-### Ce projet a eu une soutenance : [les diapositives]()
-
-
+### Ce projet a eu une soutenance : [les diapositives](https://github.com/Ossama98/Projet-de-licence-Android/blob/master/Soutenance.pdf)
 
 
 # pl2020-plpld
